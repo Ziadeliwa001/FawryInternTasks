@@ -1,0 +1,6 @@
+org\example\store\MockitoTest.class
+org\example\store\StoreWithMockitoTest.class
+org\example\account\AccountManagerImplTest.class
+org\example\store\StoreTest$AlwaysSuccessAccountManager.class
+org\example\store\StoreTest.class
+org\example\store\StoreWithMockitoTest$AlwaysSuccessAccountManager.class
